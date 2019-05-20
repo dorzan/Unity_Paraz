@@ -12,21 +12,23 @@ using UnityEngine;
 public class AndroidMovement : MonoBehaviour
 {
     public CharacterController2D controller;
+    //[SerializeField] private AudioClip[] taunts;
+    public float speed;
+    PlayerManager playermanager;
     bool jump = false;
     messageQueue queue;
-    Server server;
     int id = 0;
     private Rigidbody2D myRigidbody;
     private Vector3 change;
-    public float speed;
-    bool flag;
     private Animator animator;
+    public GameObject particals;
+    bool flag = false;
 
 
 
     void Awake()
     {
-        server = GameObject.Find("Server").GetComponent<Server>();
+        playermanager = GameObject.Find("GameManager").GetComponent<PlayerManager>();
     }
     // Start is called before the first frame update
     void Start()
@@ -35,29 +37,21 @@ public class AndroidMovement : MonoBehaviour
         //queue = server.GetClientHandler(id).queue;
         myRigidbody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        flag = false;
 
     }
 
     public void setId(int id)
     {
         this.id = id;
+        queue = playermanager.getPlayerTcpQueue(id);
+        flag = true;
+
     }
     // Update is called once per frame
     void Update()
     {
-        if (flag == false)
-        {
-            try
-            {
-                queue = server.GetClientHandler(id).queue;
-                flag = true;
-            }
-            catch (NullReferenceException shit)
-            {
-                return;
-            }
-        }
+        if (!flag)
+            return;
         string message = null;
         if (!queue.Isempty())
             message = queue.Dequeue();
@@ -71,8 +65,15 @@ public class AndroidMovement : MonoBehaviour
         change.y = (float)Math.Sin(Math.PI * direction / 180.0) * power / 100;
         UpdateAnimationAndMove();
 
-        Debug.Log("client message received as: " + message);
+        //Debug.Log("client message received as: " + message);
         // Debug.Log("client message received as: " + clientMessage.Substring(0, i ));     
+
+
+        //Sounds
+        System.Random rnd = new System.Random();
+        int month = rnd.Next(1, 800);
+        if (month == 1)
+            PlayRandomTaunt();
     }
 
 
@@ -96,6 +97,27 @@ public class AndroidMovement : MonoBehaviour
         {
             animator.SetBool("isMoving", false);
         }
+    }
+
+    public void onSceneChange()
+    {
+        Debug.Log("trrigerd");
+        animator.SetTrigger("teleport");
+        enabled = false;
+    }
+
+    void OnCompleteTeleportAnimation()
+    {
+        GetComponent<SpriteRenderer>().enabled = false;
+        Instantiate(particals, transform.position, Quaternion.identity);
+        AudioManager.Instace.playSFX("teleport");
+
+
+    }
+
+    void PlayRandomTaunt()
+    {
+        AudioManager.Instace.playRandomTaunt();
     }
 }
 

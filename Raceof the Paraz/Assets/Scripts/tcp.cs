@@ -27,11 +27,14 @@ public class tcp : MonoBehaviour
     #endregion
 
     // Use this for initialization
+    private void Awake()
+    {
+        queue = new messageQueue();
+
+    }
     void Start()
     {
-        DontDestroyOnLoad(this);
         // Start TcpServer background thread 	
-        queue = new messageQueue();
         tcpListenerThread = new Thread(new ThreadStart(ListenForIncommingRequests));
         tcpListenerThread.IsBackground = true;
         tcpListenerThread.Start();
@@ -79,7 +82,7 @@ public class tcp : MonoBehaviour
                             // Convert byte array to string message. 							
                             clientMessage = Encoding.ASCII.GetString(incommingData);
                             queue.Insert(clientMessage);
-                            Debug.Log("client message received as: " + clientMessage);
+                            //Debug.Log("client message received as: " + clientMessage);
                         }
                     }
                 }
