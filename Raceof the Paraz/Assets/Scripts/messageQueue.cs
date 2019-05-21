@@ -20,8 +20,8 @@ public class messageQueue : MonoBehaviour
     // Update is called once per frame
     public void Insert(string message)
     {
+
         string messageTemp = message;
-        Debug.Log("message is" + message );
         int i = 0, j = 0;
         if (message != null)
         {
@@ -32,6 +32,7 @@ public class messageQueue : MonoBehaviour
                 if (message[i] == '$')
                 {
                     queue.Enqueue(message.Substring(j, i - j));
+                    //Debug.Log("queue count" + queue.Count);
                     if (i == message.Length)
                         break;
                     i++;

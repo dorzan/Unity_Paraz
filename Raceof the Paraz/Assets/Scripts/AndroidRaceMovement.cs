@@ -52,8 +52,8 @@ public class AndroidRaceMovement : MonoBehaviour
         this.id = id;
         queue = playermanager.getPlayerTcpQueue(id);
         flag = true;
-
     }
+
     // Update is called once per frame
     void Update()
     {
@@ -70,7 +70,6 @@ public class AndroidRaceMovement : MonoBehaviour
                 jump = true;
         else
         {
-            Debug.Log("message is" + message+"asd");
             while (message[i] != ',') { i++; }
             int power = Int32.Parse(message.Substring(0, i));
             int direction = Int32.Parse(message.Substring(i + 1, message.Length - i - 1));
@@ -130,7 +129,7 @@ public class AndroidRaceMovement : MonoBehaviour
         if (collision.gameObject.tag == "finish")
         {
             Debug.Log("got collide");
-            GameObject.Find("StageManager").GetComponent<stageManager>().onWin(gameObject);
+            GameObject.Find("raceManager").GetComponent<RaceManager>().onWin(gameObject);
         }
     }
 

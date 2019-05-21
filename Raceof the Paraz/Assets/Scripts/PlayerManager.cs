@@ -6,21 +6,25 @@ using System;
 public class PlayerManager : MonoBehaviour
 {
     messageQueue queue;
-    public GameObject[] paraz; //prefab
-    public GameObject[] parazRace; //prefab
+    public GameObject parazLobby; //prefab
+    public GameObject parazRace; //prefab
 
-    public List<Player> PlayersList;
+    public Dictionary<int, Player> PlayersList;
     int numOfPlayers;
     Server server;
+
+    Color[] colors;
+
 
 
     // Start is called before the first frame update
     void Start()
     {   
         queue = new messageQueue();
-        PlayersList = new List<Player>();
+        PlayersList = new Dictionary<int, Player>();
         numOfPlayers = 0;
         server = GameObject.Find("Server").GetComponent<Server>();
+        colors =new Color[3] { Color.yellow, Color.blue, Color.green };
 
     }
 
@@ -35,7 +39,7 @@ public class PlayerManager : MonoBehaviour
             Debug.Log(message);
             if (message.Contains("new"))   //message is new#id
                if (GetComponent<SceneManage>().getSceneName() == "Lobby")
-                    NewParaz(Int32.Parse(message.Substring(3)));          
+                    NewPlayer(Int32.Parse(message.Substring(3)));          
         }
     }
 
@@ -52,12 +56,12 @@ public class PlayerManager : MonoBehaviour
         return null;
     }
 
-    public void NewParaz(int id)
+    public void NewPlayer(int id)
     {
         numOfPlayers++;
-        PlayersList.Add(new Player(id, paraz[numOfPlayers-1], getPlayerTcpQueue()));
-        PlayersList[PlayersList.Count - 1].paraz.GetComponent<AndroidMovement>().setId(id);
-        // AudioManager.Instace.playSFX("boom");
+        PlayersList.Add(id, new Player(id, getPlayerTcpQueue(), colors[id]));
+        PlayersList[id].InstantiateNewParaz(parazLobby, new Vector3(0, 0, 0));
+        PlayersList[id].paraz.GetComponent<AndroidMovement>().setId(id);
         if (numOfPlayers == 1)
             GameObject.Find("UI").GetComponent<UImanager>().changeTextA("care", false, true); //shutdown text          
     }
@@ -73,31 +77,33 @@ public class PlayerManager : MonoBehaviour
     }
 
 
-    public void loadLobby()
+    public void onLobbySceneLoad()
     {
-        Debug.Log("SADFSADFSDF");
-          for (int i=0; i < numOfPlayers; i++)
+        foreach (var id in PlayersList.Keys)
         {
-            PlayersList[i].paraz = Instantiate(paraz[i], new Vector3(0, 0, 0), Quaternion.identity) as GameObject;
-            PlayersList[i].paraz.GetComponent<AndroidMovement>().setId(PlayersList[i].id);
-
+            PlayersList[id].InstantiateNewParaz(parazLobby, new Vector3(0, 0, 0));
+            if(PlayersList[id].paraz.GetComponent<AndroidMovement>().enabled)
+                 PlayersList[id].paraz.GetComponent<AndroidMovement>().setId(id);
+            else
+                PlayersList[id].paraz.GetComponent<PythonMovement>().setId(id);
         }
     }
+
 
     public void onRaceSceneLoad()
     {
         Vector3 startPos = GameObject.Find("SpawnPos").transform.position;
-        for (int i=0; i < numOfPlayers; i++)
+        foreach (var id in PlayersList.Keys)
         {
-            PlayersList[i].paraz = Instantiate(parazRace[i], startPos , Quaternion.identity) as GameObject;
-            Debug.Log("id is " + PlayersList[i].id);
-            PlayersList[i].paraz.GetComponent<AndroidRaceMovement>().setId(PlayersList[i].id);
+            PlayersList[id].InstantiateNewParaz(parazRace, startPos);
+            if (PlayersList[id].paraz.GetComponent<AndroidRaceMovement>().enabled)
+                PlayersList[id].paraz.GetComponent<AndroidRaceMovement>().setId(id);
+            else
+                PlayersList[id].paraz.GetComponent<pythonRaceMovement>().setId(id);
 
         }
 
     }
-
-
 
     public class Player
     {
@@ -106,14 +112,26 @@ public class PlayerManager : MonoBehaviour
         int score;
         public GameObject paraz; //prefab; 
         public messageQueue queue;
+        Color color;
 
-        public Player(int id, GameObject paraz_prefab, messageQueue queue)
+        public Player(int id, messageQueue queue, Color color)
         {
             this.queue = queue;
             this.id = id;
-            this.paraz = Instantiate(paraz_prefab, new Vector3(0, 0, 0), Quaternion.identity) as GameObject;        
+            this.color = color;
+        }
 
 
+        public void InstantiateNewParaz(GameObject paraz_prefab, Vector3 startPos)
+        {
+            Debug.Log("sp bitch");
+            paraz = Instantiate(paraz_prefab, startPos, Quaternion.identity) as GameObject;
+            implementColor();
+        }
+
+        private void implementColor()
+        {
+            paraz.transform.Find("arrow").GetComponent<SpriteRenderer>().color = color;
         }
     }
 

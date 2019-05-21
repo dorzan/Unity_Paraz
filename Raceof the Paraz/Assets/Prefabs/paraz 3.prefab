@@ -164,7 +164,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 0}
-  taunts: []
   speed: 8
   particals: {fileID: 2132263092299659222, guid: d70597c8b13edc943a361a3846a2bc2f,
     type: 3}

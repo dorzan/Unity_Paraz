@@ -24,7 +24,10 @@ public class SceneManage : MonoBehaviour
         scene = SceneManager.GetActiveScene();
 
         if (scene.name == "Lobby" && firstTimeLobby == false)
-            playerManager.loadLobby();
+        {
+            playerManager.onLobbySceneLoad();
+
+        }
 
         else if (firstTimeLobby == true)
             firstTimeLobby = false;
@@ -87,7 +90,7 @@ public class SceneManage : MonoBehaviour
 
   
 
-    public void cancleNextScene()
+    public void cancleNextSceneInvoke()
     {
         CancelInvoke();
     }

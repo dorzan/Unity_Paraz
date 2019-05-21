@@ -45,7 +45,6 @@ public class AndroidMovement : MonoBehaviour
         this.id = id;
         queue = playermanager.getPlayerTcpQueue(id);
         flag = true;
-
     }
     // Update is called once per frame
     void Update()
@@ -54,10 +53,17 @@ public class AndroidMovement : MonoBehaviour
             return;
         string message = null;
         if (!queue.Isempty())
+
             message = queue.Dequeue();
-        else return;
+        else
+        {
+            Debug.Log("queue empty");
+            return;
+        }
         int i = 0;
         change = Vector3.zero;
+        if (message.Contains("jump"))
+            return;
         while (message[i] != ',') { i++; }
         int power = Int32.Parse(message.Substring(0, i));
         int direction = Int32.Parse(message.Substring(i + 1, message.Length - i - 1));
@@ -70,10 +76,10 @@ public class AndroidMovement : MonoBehaviour
 
 
         //Sounds
-        System.Random rnd = new System.Random();
+       /* System.Random rnd = new System.Random();
         int month = rnd.Next(1, 800);
         if (month == 1)
-            PlayRandomTaunt();
+            PlayRandomTaunt();*/
     }
 
 
@@ -81,7 +87,8 @@ public class AndroidMovement : MonoBehaviour
     {
         //Move Character
         // controller.Move(horizontalMove * Time.fixedDeltaTime * 10, false, jump);
-        myRigidbody.MovePosition(transform.position + change * speed * Time.deltaTime);
+        //myRigidbody.MovePosition(transform.position + change * speed * Time.deltaTime);
+        myRigidbody.AddForce(change);
         // jump = false;
     }
 

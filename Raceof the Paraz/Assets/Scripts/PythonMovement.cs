@@ -21,6 +21,7 @@ public class PythonMovement : MonoBehaviour
     private Rigidbody2D myRigidbody;
     private Vector3 change;
     private Animator animator;
+    bool flag = false;
 
 
 
@@ -43,11 +44,14 @@ public class PythonMovement : MonoBehaviour
     public void setId(int id)
     {
         this.id = id;
+        queue = playermanager.getPlayerTcpQueue(id);
+        flag = true;
     }
     // Update is called once per frame
     void Update()
     {
-
+        if (!flag)
+            return;
         string message = null;
         if (!queue.Isempty())
             message = queue.Dequeue();

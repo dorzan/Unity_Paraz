@@ -18,6 +18,7 @@ public class pythonRaceMovement : MonoBehaviour
     float horizontalMove = 0f;
     tcp server;
     SpriteRenderer spriteRenderer;
+    bool flag = false;
 
 
 
@@ -45,13 +46,14 @@ public class pythonRaceMovement : MonoBehaviour
     public void setId(int id)
     {
         this.id = id;
-        queue = playermanager.getPlayerTcpQueue();
-
+        queue = playermanager.getPlayerTcpQueue(id);
+        flag = true;
     }
     // Update is called once per frame
     void Update()
     {
-
+        if (!flag)
+            return;
         string message = null;
         if (!queue.Isempty())
             message = queue.Dequeue();
@@ -123,7 +125,7 @@ public class pythonRaceMovement : MonoBehaviour
         }
         if (collision.gameObject.tag == "finish")
         {
-            GameObject.Find("StageManager").GetComponent<stageManager>().onWin(gameObject);
+            GameObject.Find("raceManager").GetComponent<RaceManager>().onWin(gameObject);
         }
     }
     
