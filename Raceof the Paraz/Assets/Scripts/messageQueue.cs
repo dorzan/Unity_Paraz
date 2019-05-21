@@ -21,6 +21,7 @@ public class messageQueue : MonoBehaviour
     public void Insert(string message)
     {
         string messageTemp = message;
+        Debug.Log("message is" + message );
         int i = 0, j = 0;
         if (message != null)
         {

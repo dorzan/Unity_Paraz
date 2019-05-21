@@ -65,10 +65,12 @@ public class AndroidRaceMovement : MonoBehaviour
         else return;
         int i = 0;
         change = Vector3.zero;
-        if (message == "jump")
-            jump = true;
+        //if (message == "jump")
+        if (message.Contains("jump"))
+                jump = true;
         else
         {
+            Debug.Log("message is" + message+"asd");
             while (message[i] != ',') { i++; }
             int power = Int32.Parse(message.Substring(0, i));
             int direction = Int32.Parse(message.Substring(i + 1, message.Length - i - 1));
