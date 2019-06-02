@@ -25,14 +25,12 @@ public class messageQueue : MonoBehaviour
         int i = 0, j = 0;
         if (message != null)
         {
-            // Debug.Log(clientMessage);
             while (i < messageTemp.Length)
             {
                 
                 if (message[i] == '$')
                 {
                     queue.Enqueue(message.Substring(j, i - j));
-                    //Debug.Log("queue count" + queue.Count);
                     if (i == message.Length)
                         break;
                     i++;

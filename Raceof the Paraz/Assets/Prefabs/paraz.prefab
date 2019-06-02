@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2105199543928284382}
   - component: {fileID: 9084710915672268431}
   - component: {fileID: 2032962715427443101}
+  - component: {fileID: 3641284939371103781}
   - component: {fileID: 2733202010220965478}
   - component: {fileID: 7945148418504954952}
   - component: {fileID: -1587274936210405394}
@@ -71,8 +72,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1841285955
-  m_SortingLayer: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300192, guid: d172f00826726fa4d806f2ebe23b733a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -132,6 +133,20 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &3641284939371103781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3064367221683430327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 336982dbd50af09479cffd35352c732d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offset: 0
+  runOnlyOnce: 0
 --- !u!95 &2733202010220965478
 Animator:
   serializedVersion: 3

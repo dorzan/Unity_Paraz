@@ -25,7 +25,7 @@ public class SceneManage : MonoBehaviour
 
         if (scene.name == "Lobby" && firstTimeLobby == false)
         {
-            playerManager.onLobbySceneLoad();
+           // playerManager.onLobbySceneLoad();
 
         }
 

@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/CastleFight.unity
+    guid: 098cd5894789f054daa8e67c6d4dc316
+  - enabled: 1
     path: Assets/Scenes/opening.unity
     guid: b80434831d7e076488b672e0bfe68b01
   - enabled: 1

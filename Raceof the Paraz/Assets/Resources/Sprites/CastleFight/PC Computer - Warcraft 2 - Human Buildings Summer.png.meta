@@ -1,0 +1,1301 @@
+fileFormatVersion: 2
+guid: 508e1b6556dc61443bdb1b6576d698c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8038863035564476248
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_0
+  - first:
+      213: -5580864854453114312
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_1
+  - first:
+      213: 8042279895458218355
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_2
+  - first:
+      213: -6837887832499620309
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_3
+  - first:
+      213: 8466463577941273063
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_4
+  - first:
+      213: -6888837328590386946
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_5
+  - first:
+      213: -3103951228496810967
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_6
+  - first:
+      213: 7680427999460499006
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_7
+  - first:
+      213: -1568201325519640848
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_8
+  - first:
+      213: -5535339070427674327
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_9
+  - first:
+      213: -5286993272276516316
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_10
+  - first:
+      213: -8256224051973535448
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_11
+  - first:
+      213: 2765083302044318569
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_12
+  - first:
+      213: -6174063853956752744
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_13
+  - first:
+      213: -7817644567151283739
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_14
+  - first:
+      213: 6265995174629633313
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_15
+  - first:
+      213: 2329279203382817314
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_16
+  - first:
+      213: -4526434622074181296
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_17
+  - first:
+      213: 8211228812993725957
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_18
+  - first:
+      213: -5350100467711846613
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_19
+  - first:
+      213: 6969868728914126967
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_20
+  - first:
+      213: 4315680587386228734
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_21
+  - first:
+      213: 3730005207125968382
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_22
+  - first:
+      213: 7233864560482430369
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_23
+  - first:
+      213: -7940364510815856617
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_24
+  - first:
+      213: 2691177862613649324
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_25
+  - first:
+      213: 6193098136536916308
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_26
+  - first:
+      213: -5937154702596490921
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_27
+  - first:
+      213: -6796050307617650789
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_28
+  - first:
+      213: -7297358293282342492
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_29
+  - first:
+      213: -6405139819810019332
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_30
+  - first:
+      213: 909054909561412739
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_31
+  - first:
+      213: -3777783453543753537
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_32
+  - first:
+      213: -6549145152394541130
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_33
+  - first:
+      213: 7495937579645265888
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_34
+  - first:
+      213: 819269318330152156
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_35
+  - first:
+      213: -8107770031525564716
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_36
+  - first:
+      213: 4993076054222320134
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_37
+  - first:
+      213: 4311863174457991609
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_38
+  - first:
+      213: 8590358079641455612
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_39
+  - first:
+      213: 5384130482281467172
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_40
+  - first:
+      213: -4912651717282623861
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_41
+  - first:
+      213: -6405573354057014211
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_42
+  - first:
+      213: -4530851288314660029
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_43
+  - first:
+      213: -7955175056034430204
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_44
+  - first:
+      213: -7205201533423140385
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_45
+  - first:
+      213: -7626601994814902623
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_46
+  - first:
+      213: -6631944412203105865
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_47
+  - first:
+      213: -5002162821789194419
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_48
+  - first:
+      213: -1948861644219896473
+    second: PC Computer - Warcraft 2 - Human Buildings Summer_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 534
+        width: 122
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de2253023db38b4da8af414ba836a9e
+      internalID: 8038863035564476248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfabc212502e16b4fb2eaca5a15b1cef
+      internalID: -5580864854453114312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 536
+        width: 119
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d5ad618c045648b245f42577aac8d
+      internalID: 8042279895458218355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 589
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453bdf9247409044ba067e5cc4129590
+      internalID: -6837887832499620309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 589
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0104b8eb889e4e9dc78282762a717
+      internalID: 8466463577941273063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 560
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d72192f78398c498f9c647cafad6db
+      internalID: -6888837328590386946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 608
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaad00faf5494742a7b086bd5c91d96
+      internalID: -3103951228496810967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 525
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b8504ddbb0f7141bbb70ed24decea9
+      internalID: 7680427999460499006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 525
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb8f406d8c49e84683ecb7bb09cf805
+      internalID: -1568201325519640848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_9
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 463
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5534764060599f04ea80b434791884f3
+      internalID: -5535339070427674327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 406
+        width: 119
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a3d672cdc1fb6468c51a9c25085b02
+      internalID: -5286993272276516316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 397
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa8936ee91cc1a4c9ebcb55c7fa6da2
+      internalID: -8256224051973535448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 459
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db95147352a47a84e8cd03cb6498503c
+      internalID: 2765083302044318569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 459
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863dd010314e2ee44bb9841a03f8320b
+      internalID: -6174063853956752744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 511
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b3c221dd14ae1458fac26fb457fd39
+      internalID: -7817644567151283739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 439
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041b0337b9e0be54f967d3e8c111d3ae
+      internalID: 6265995174629633313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 408
+        width: 111
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4776e45500aa438aadddef1a92c28
+      internalID: 2329279203382817314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 395
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6071d6d63eb3445bcee0b1a26f6846
+      internalID: -4526434622074181296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 395
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f2eab3b592147488ee20346a0452d4
+      internalID: 8211228812993725957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_19
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 365
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e096cbd4b18724791075aa324e59e7
+      internalID: -5350100467711846613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 413
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3bd9ee05df7ef4bab8f857d100423d
+      internalID: 6969868728914126967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 297
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba4cc1ed468d0d4888ba2804d30d31f
+      internalID: 4315680587386228734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 301
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4106888a728c442b25467cc995d924
+      internalID: 3730005207125968382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 235
+        width: 95
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3fb630bf8368b4bb8e9b66ced8351a
+      internalID: 7233864560482430369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 297
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294266e96b3e0d84990ed5d4bd4db01b
+      internalID: -7940364510815856617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 299
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b38ef754cc6e49a82b50bc8c39907
+      internalID: 2691177862613649324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 260
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701cd045aa3f71c4da11f989e30d3f9b
+      internalID: 6193098136536916308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 202
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ec598c44a5a74dbfa258d998e1418
+      internalID: -5937154702596490921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 205
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1627341f00b7fa242999913e618fb015
+      internalID: -6796050307617650789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 234
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feb857b13ea6ea4d84920549000e06c
+      internalID: -7297358293282342492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 216
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c460510b705c943809dda26edc7049
+      internalID: -6405139819810019332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 201
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fe018632af87e45b356706f744ecee
+      internalID: 909054909561412739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 202
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d350c60702e908b438d9398e43591c3d
+      internalID: -3777783453543753537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_33
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 164
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574dbc650aa8b44390bb2d3e0712f10
+      internalID: -6549145152394541130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 225
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ea4ca3cab54741b04eee6a1733bec
+      internalID: 7495937579645265888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 214
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e108c0d02b2b8429067594d32c7708
+      internalID: 819269318330152156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 213
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b9c721d2119974ab879e1bbec1fbfb
+      internalID: -8107770031525564716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 208
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eb406f2354ede46b075b1a1b4ccbad
+      internalID: 4993076054222320134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 201
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d41bd13798ffe7409bd09a7c480ca14
+      internalID: 4311863174457991609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 103
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5655509da8dc6e243a0218254edd1584
+      internalID: 8590358079641455612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 105
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660604c92b92b424ba250bbb82dbd262
+      internalID: 5384130482281467172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 105
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9e2d7be88c97a469fe065ee812fc39
+      internalID: -4912651717282623861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 104
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6819237fe6c522849a824246e907bb05
+      internalID: -6405573354057014211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_43
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 103
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4895ac7826ae23347aa0263d6a33732a
+      internalID: -4530851288314660029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00431600213a1c84fa2fa8b06dca8052
+      internalID: -7955175056034430204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b4b646093ac8c4f8aa1e0bb1f2f297
+      internalID: -7205201533423140385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21677099f2fdb947ad32035724075b9
+      internalID: -7626601994814902623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_47
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c908cd57ba5836b41853086f9fb8f134
+      internalID: -6631944412203105865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_48
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 7
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e758e9366f25241bf0fc443f6da0e4
+      internalID: -5002162821789194419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Human Buildings Summer_49
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 7
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c22531503cd14241b2ef4e740e3e18f
+      internalID: -1948861644219896473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: df469745e4f387b4a923bf804931444b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

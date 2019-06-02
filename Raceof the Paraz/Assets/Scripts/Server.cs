@@ -35,7 +35,7 @@ public class Server : MonoBehaviour
         DontDestroyOnLoad(this);
         numOfConnetctions = 0;
         TcpClientHandlerList = new List<TcpClientHandler>();
-       
+
         // Start TcpServer background thread 	
         tcpListenerThread = new Thread(new ThreadStart(ListenForIncommingRequests));
         tcpListenerThread.IsBackground = true;
@@ -53,17 +53,29 @@ public class Server : MonoBehaviour
     {
 
     }
-   
-    public TcpClientHandler GetClientHandler(int id)
+
+    public TcpClientHandler GetTcpClientHandler(int id)
     {
         try
         {
             return TcpClientHandlerList[id];
         }
-        catch(ArgumentOutOfRangeException asd){
+        catch (ArgumentOutOfRangeException asd)
+        {
             return null;
-                }
-       
+        }
+    }
+
+    public TcpClientHandler GetUdpClientHandler(int id)
+    {
+        try
+        {
+            return TcpClientHandlerList[id];
+        }
+        catch (ArgumentOutOfRangeException asd)
+        {
+            return null;
+        }
     }
 
     /// <summary> 	
@@ -82,9 +94,9 @@ public class Server : MonoBehaviour
             {
                 TcpClient connectedTcpClient = tcpListener.AcceptTcpClient();
                 {
-                    Debug.Log("connection num" +(numOfConnetctions) +" established ");
+                    Debug.Log("connection num" + (numOfConnetctions) + " established ");
                     TcpClientHandlerList.Add(new TcpClientHandler(connectedTcpClient, numOfConnetctions));
-                    playerManager.getPlayerManagerQueue().Insert("new" + numOfConnetctions.ToString()+'$');
+                    playerManager.getPlayerManagerQueue().Insert("new" + (TcpClientHandlerList.Count-1).ToString() + '$');
                     numOfConnetctions++;
 
                     // Get a stream object for reading
@@ -106,6 +118,7 @@ public class Server : MonoBehaviour
         int id;
         public messageQueue queue;
         private Thread tcpClientThread;
+        public UdpClientHandler udpHandler;
 
         public TcpClientHandler(TcpClient clientSocket, int id)
         {
@@ -115,10 +128,11 @@ public class Server : MonoBehaviour
             tcpClientThread = new Thread(new ThreadStart(ListenToClient));
             tcpClientThread.IsBackground = true;
             tcpClientThread.Start();
-
+            int udpPort = 11000 + id;
+            udpHandler = new UdpClientHandler(id, udpPort);
+            SendMessage(udpPort.ToString() +"\n");     
         }
 
-   
 
         public void ListenToClient()
         {
@@ -135,46 +149,80 @@ public class Server : MonoBehaviour
                     // Convert byte array to string message. 							
                     clientMessage = Encoding.ASCII.GetString(incommingData);
                     queue.Insert(clientMessage);
-                   // Debug.Log("client  " + id +"message received as: " + clientMessage);
+                    // Debug.Log("client  " + id +"message received as: " + clientMessage);
                 }
+            }
+        }
+
+        private void SendMessage(string serverMessage)
+        {
+            if (clientSocket == null)
+            {
+                return;
+            }
+            try
+            {
+                // Get a stream object for writing. 			
+                NetworkStream stream = clientSocket.GetStream();
+                if (stream.CanWrite)
+                {
+                    // Convert string message to byte array.                 
+                     byte[] serverMessageAsByteArray = Encoding.ASCII.GetBytes(serverMessage);
+                   // byte[] serverMessageAsByteArray = serverMessage;
+                     // Write byte array to socketConnection stream.               
+                     stream.Write(serverMessageAsByteArray, 0, serverMessageAsByteArray.Length);
+                }
+            }
+            catch (SocketException socketException)
+            {
+                Debug.Log("Socket exception: " + socketException);
+            }
+        }
+    }
+
+
+    public class UdpClientHandler
+    {
+        UdpClient clientSocket;
+        int id;
+        public messageQueue queue;
+        private Thread UdpClientThread;
+        private int port;
+
+        public UdpClientHandler(int id, int port)
+        {
+            this.port = port;
+            queue = new messageQueue();
+            this.id = id;
+            UdpClientThread = new Thread(new ThreadStart(ListenToClient));
+            UdpClientThread.IsBackground = true;
+            UdpClientThread.Start();
+        }
+
+        public void ListenToClient()
+        {
+            bool done = false;
+            UdpClient listener = new UdpClient(port);
+            IPEndPoint groupEP = new IPEndPoint(IPAddress.Any, port);          
+            try
+            {
+                while (!done)
+                {
+                    string clientMessage;
+                    byte[] bytes = listener.Receive(ref groupEP);
+                    clientMessage = Encoding.ASCII.GetString(bytes, 0, bytes.Length);
+                    queue.Insert(clientMessage);
+                    //Debug.Log(clientMessage);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+            finally
+            {
+                listener.Close();
             }
         }
     }
 }
-
-
-
-
-
-    /// <summary> 	
-    /// Send message to client using socket connection. 	
-    /// </summary> 	
-    /// 
-    /*
-    private void SendMessage()
-    {
-        if (connectedTcpClient == null)
-        {
-            return;
-        }
-
-        try
-        {
-            // Get a stream object for writing. 			
-            NetworkStream stream = connectedTcpClient.GetStream();
-            if (stream.CanWrite)
-            {
-                string serverMessage = "This is a message from your server.";
-                // Convert string message to byte array.                 
-                byte[] serverMessageAsByteArray = Encoding.ASCII.GetBytes(serverMessage);
-                // Write byte array to socketConnection stream.               
-                stream.Write(serverMessageAsByteArray, 0, serverMessageAsByteArray.Length);
-                Debug.Log("Server sent his message - should be received by client");
-            }
-        }
-        catch (SocketException socketException)
-        {
-            Debug.Log("Socket exception: " + socketException);
-        }
-    }
-}*/

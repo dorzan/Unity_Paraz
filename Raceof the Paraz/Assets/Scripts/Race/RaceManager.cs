@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static PlayerManager;
+
 
 public class RaceManager : MonoBehaviour
 {
@@ -9,6 +11,8 @@ public class RaceManager : MonoBehaviour
     Vector3 moveCameraX;
     Vector3 moveCameraY;
     PlayerManager playerManager;
+    public GameObject ParazRacePrefab;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,12 +20,20 @@ public class RaceManager : MonoBehaviour
         moveCameraX = new Vector3(0.4f, 0, 0);
         moveCameraY = new Vector3(0, 0.4f, 0);
         playerManager = GameObject.Find("GameManager").GetComponent<PlayerManager>();
+        playerManager.OnNewPlayer += onNewPlayer;
+
     }
 
     // Update is called once per frame
     void Update()
     {
         
+    }
+
+    void onNewPlayer(Player player)
+    {
+        //player.InstantiateNewParaz(ParazLobbyPrefab, new Vector3(0, 0, 0));
+        // player.paraz.GetComponent<AndroidMovement>().setId(player.id);     
     }
 
     public void onWin (GameObject paraz)
@@ -66,5 +78,11 @@ public class RaceManager : MonoBehaviour
 
         yield return new WaitForSeconds(4f);
         GameObject.Find("GameManager").GetComponent<SceneManage>().ChangeScene("Lobby");
+    }
+
+
+    private void OnDisable()
+    {
+        playerManager.OnNewPlayer -= onNewPlayer;
     }
 }

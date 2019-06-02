@@ -36,7 +36,6 @@ public class PythonMovement : MonoBehaviour
         //queue = server.GetClientHandler(id).queue;
         myRigidbody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        queue = playermanager.getPlayerTcpQueue();
         myRigidbody.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
     }
@@ -44,7 +43,7 @@ public class PythonMovement : MonoBehaviour
     public void setId(int id)
     {
         this.id = id;
-        queue = playermanager.getPlayerTcpQueue(id);
+        queue = playermanager.getPlayerUdpQueue(id);
         flag = true;
     }
     // Update is called once per frame

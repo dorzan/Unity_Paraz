@@ -9,6 +9,10 @@ public class PlayerManager : MonoBehaviour
     public GameObject parazLobby; //prefab
     public GameObject parazRace; //prefab
 
+    public delegate void callback(Player player);
+    public event callback OnNewPlayer;
+    public event callback OnPlayerLeft;
+
     public Dictionary<int, Player> PlayersList;
     int numOfPlayers;
     Server server;
@@ -19,64 +23,82 @@ public class PlayerManager : MonoBehaviour
 
     // Start is called before the first frame update
     void Start()
-    {   
+    {
         queue = new messageQueue();
         PlayersList = new Dictionary<int, Player>();
         numOfPlayers = 0;
         server = GameObject.Find("Server").GetComponent<Server>();
-        colors =new Color[3] { Color.yellow, Color.blue, Color.green };
+        colors =new Color[4] { Color.yellow, Color.blue, Color.green, Color.red };
 
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
+
+
         if (!queue.Isempty())
         {
-
             string message;
             message = queue.Dequeue();
             Debug.Log(message);
             if (message.Contains("new"))   //message is new#id
-               if (GetComponent<SceneManage>().getSceneName() == "Lobby")
-                    NewPlayer(Int32.Parse(message.Substring(3)));          
+                if (GetComponent<SceneManage>().getSceneName() == "Lobby")
+                {
+                    Player newPlayer = NewPlayer(Int32.Parse(message.Substring(3)));
+                    OnNewPlayer(newPlayer);  //event
+
+                }
         }
     }
 
-    public messageQueue getPlayerTcpQueue()
-    {
-        return server.GetClientHandler(numOfPlayers-1).queue;
-    }
+    //void addToOnNewPlayerCallback(var )
 
-    public messageQueue getPlayerTcpQueue(int id)
+    public Player NewPlayer(int clientHandlerId)
     {
-        for(int i = 0; i < numOfPlayers; i ++)
-            if (PlayersList[i].id == id)
-                return PlayersList[i].queue;
-        return null;
-    }
-
-    public void NewPlayer(int id)
-    {
+        Player newPlayer;
+        int id = getNewPlayerId();
         numOfPlayers++;
-        PlayersList.Add(id, new Player(id, getPlayerTcpQueue(), colors[id]));
-        PlayersList[id].InstantiateNewParaz(parazLobby, new Vector3(0, 0, 0));
-        PlayersList[id].paraz.GetComponent<AndroidMovement>().setId(id);
-        if (numOfPlayers == 1)
-            GameObject.Find("UI").GetComponent<UImanager>().changeTextA("care", false, true); //shutdown text          
+        Debug.Log(clientHandlerId);
+        newPlayer = new Player(id, getNewPlayerUdpQueue(clientHandlerId), colors[id]);
+        PlayersList.Add(id, newPlayer);     
+
+        return newPlayer;
     }
+
+    private int getNewPlayerId()
+    {
+        for(int i = 0; i<numOfPlayers; i++)
+        {
+            if (!PlayersList.ContainsKey(i))
+                 return i;
+        }
+        return numOfPlayers;
+    }
+
+    public messageQueue getNewPlayerUdpQueue(int clientHandlerId)
+    {
+        return server.GetTcpClientHandler(clientHandlerId).udpHandler.queue;
+    }
+
+    public messageQueue getPlayerUdpQueue(int id)
+    {
+        return PlayersList[id].queue;
+    }
+
 
     public messageQueue getPlayerManagerQueue()
     {
         return queue;
     }
 
+    
     public int getNumOfPlayers()
     {
         return numOfPlayers;
     }
-
-
+    
+    /*
     public void onLobbySceneLoad()
     {
         foreach (var id in PlayersList.Keys)
@@ -88,7 +110,7 @@ public class PlayerManager : MonoBehaviour
                 PlayersList[id].paraz.GetComponent<PythonMovement>().setId(id);
         }
     }
-
+    */
 
     public void onRaceSceneLoad()
     {
@@ -100,15 +122,13 @@ public class PlayerManager : MonoBehaviour
                 PlayersList[id].paraz.GetComponent<AndroidRaceMovement>().setId(id);
             else
                 PlayersList[id].paraz.GetComponent<pythonRaceMovement>().setId(id);
-
         }
-
     }
 
     public class Player
     {
         public int id;
-        bool isUp;
+        bool isActive = false;
         int score;
         public GameObject paraz; //prefab; 
         public messageQueue queue;
@@ -126,6 +146,7 @@ public class PlayerManager : MonoBehaviour
         {
             Debug.Log("sp bitch");
             paraz = Instantiate(paraz_prefab, startPos, Quaternion.identity) as GameObject;
+            isActive = true;
             implementColor();
         }
 

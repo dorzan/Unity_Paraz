@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Obstacle
   - finish
+  - Unit
+  - Castle
   layers:
   - Default
   - TransparentFX

@@ -46,7 +46,7 @@ public class pythonRaceMovement : MonoBehaviour
     public void setId(int id)
     {
         this.id = id;
-        queue = playermanager.getPlayerTcpQueue(id);
+        queue = playermanager.getPlayerUdpQueue(id);
         flag = true;
     }
     // Update is called once per frame

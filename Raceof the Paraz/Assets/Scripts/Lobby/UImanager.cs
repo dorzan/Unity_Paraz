@@ -8,9 +8,14 @@ public class UImanager : MonoBehaviour
 {
     GameObject textA;
     // Start is called before the first frame update
-    void Start()
+
+    private void Awake()
     {
         textA = GameObject.Find("text1");
+
+    }
+    void Start()
+    {
     }
 
     // Update is called once per frame

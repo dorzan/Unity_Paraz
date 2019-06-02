@@ -40,6 +40,7 @@ public class AudioManager : MonoBehaviour
     private AudioClip boom;
     private AudioClip omer;
     private AudioClip won;
+    private AudioClip FootmanDeath;
 
     #endregion
 
@@ -77,6 +78,8 @@ public class AudioManager : MonoBehaviour
         mu2 = Resources.Load<AudioClip>("Sounds/mu2");
         omer = Resources.Load<AudioClip>("Sounds/omer leha");
         won = Resources.Load<AudioClip>("Sounds/won");
+        FootmanDeath = Resources.Load<AudioClip>("Sounds/Castle Fight/Footman/FootmanDeath");
+
 
         taunts.Add(0, mu1);
         taunts.Add(1, mu2);
@@ -84,6 +87,8 @@ public class AudioManager : MonoBehaviour
         dict.Add("teleport", tele);
         dict.Add("boom", boom);
         dict.Add("won", won);
+        dict.Add("footmanDeath", FootmanDeath);
+
         yield return null;
     }
 

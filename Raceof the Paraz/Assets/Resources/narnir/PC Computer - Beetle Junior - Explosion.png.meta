@@ -1,0 +1,2501 @@
+fileFormatVersion: 2
+guid: 9786e48a2e2961c41b6b89f3afcb3716
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3661875320291741496
+    second: PC Computer - Beetle Junior - Explosion_0
+  - first:
+      213: -81423212792942592
+    second: PC Computer - Beetle Junior - Explosion_1
+  - first:
+      213: -198607912265625531
+    second: PC Computer - Beetle Junior - Explosion_2
+  - first:
+      213: -7979288439613375173
+    second: PC Computer - Beetle Junior - Explosion_3
+  - first:
+      213: 6074076562373187398
+    second: PC Computer - Beetle Junior - Explosion_4
+  - first:
+      213: -8212398590035202869
+    second: PC Computer - Beetle Junior - Explosion_5
+  - first:
+      213: -1727457923938759984
+    second: PC Computer - Beetle Junior - Explosion_6
+  - first:
+      213: 2169583073111145648
+    second: PC Computer - Beetle Junior - Explosion_7
+  - first:
+      213: -4217229720616915381
+    second: PC Computer - Beetle Junior - Explosion_8
+  - first:
+      213: 822833271383618747
+    second: PC Computer - Beetle Junior - Explosion_9
+  - first:
+      213: -185176226474216958
+    second: PC Computer - Beetle Junior - Explosion_10
+  - first:
+      213: -7083379403619502164
+    second: PC Computer - Beetle Junior - Explosion_11
+  - first:
+      213: -2701866831420862787
+    second: PC Computer - Beetle Junior - Explosion_12
+  - first:
+      213: -4965573265201361339
+    second: PC Computer - Beetle Junior - Explosion_13
+  - first:
+      213: -409458016624903529
+    second: PC Computer - Beetle Junior - Explosion_14
+  - first:
+      213: -1880703694268775336
+    second: PC Computer - Beetle Junior - Explosion_15
+  - first:
+      213: 158807463120262171
+    second: PC Computer - Beetle Junior - Explosion_16
+  - first:
+      213: -5473219103841928223
+    second: PC Computer - Beetle Junior - Explosion_17
+  - first:
+      213: -4425891867351485467
+    second: PC Computer - Beetle Junior - Explosion_18
+  - first:
+      213: 4548363653071514055
+    second: PC Computer - Beetle Junior - Explosion_19
+  - first:
+      213: 5391957143938887650
+    second: PC Computer - Beetle Junior - Explosion_20
+  - first:
+      213: 2851518143897351345
+    second: PC Computer - Beetle Junior - Explosion_21
+  - first:
+      213: -6326270369230135659
+    second: PC Computer - Beetle Junior - Explosion_22
+  - first:
+      213: 8693507371873081542
+    second: PC Computer - Beetle Junior - Explosion_23
+  - first:
+      213: 1142854993921824855
+    second: PC Computer - Beetle Junior - Explosion_24
+  - first:
+      213: 5394418442726954519
+    second: PC Computer - Beetle Junior - Explosion_25
+  - first:
+      213: 4147197866949545097
+    second: PC Computer - Beetle Junior - Explosion_26
+  - first:
+      213: -7650184887249181343
+    second: PC Computer - Beetle Junior - Explosion_27
+  - first:
+      213: 8861907924895035006
+    second: PC Computer - Beetle Junior - Explosion_28
+  - first:
+      213: -5078156262441073406
+    second: PC Computer - Beetle Junior - Explosion_29
+  - first:
+      213: 3841976014268233335
+    second: PC Computer - Beetle Junior - Explosion_30
+  - first:
+      213: 1067591994526443156
+    second: PC Computer - Beetle Junior - Explosion_31
+  - first:
+      213: -3804231152957961886
+    second: PC Computer - Beetle Junior - Explosion_32
+  - first:
+      213: 3760586323840807224
+    second: PC Computer - Beetle Junior - Explosion_33
+  - first:
+      213: -1434569973120914368
+    second: PC Computer - Beetle Junior - Explosion_34
+  - first:
+      213: 569426980412033344
+    second: PC Computer - Beetle Junior - Explosion_35
+  - first:
+      213: 5431268542950362152
+    second: PC Computer - Beetle Junior - Explosion_36
+  - first:
+      213: -6380795199582310304
+    second: PC Computer - Beetle Junior - Explosion_37
+  - first:
+      213: -979791285985356666
+    second: PC Computer - Beetle Junior - Explosion_38
+  - first:
+      213: 4030366410621771283
+    second: PC Computer - Beetle Junior - Explosion_39
+  - first:
+      213: 7559849062788804774
+    second: PC Computer - Beetle Junior - Explosion_40
+  - first:
+      213: -2666443536139254947
+    second: PC Computer - Beetle Junior - Explosion_41
+  - first:
+      213: 6123386080203034533
+    second: PC Computer - Beetle Junior - Explosion_42
+  - first:
+      213: -2050124283155465635
+    second: PC Computer - Beetle Junior - Explosion_43
+  - first:
+      213: -4060154922847747625
+    second: PC Computer - Beetle Junior - Explosion_44
+  - first:
+      213: -8176485532892539603
+    second: PC Computer - Beetle Junior - Explosion_45
+  - first:
+      213: -5859765089380152847
+    second: PC Computer - Beetle Junior - Explosion_46
+  - first:
+      213: -4629351609633270731
+    second: PC Computer - Beetle Junior - Explosion_47
+  - first:
+      213: -9167533556930011020
+    second: PC Computer - Beetle Junior - Explosion_48
+  - first:
+      213: 4040822788670402460
+    second: PC Computer - Beetle Junior - Explosion_49
+  - first:
+      213: 9003106140732162014
+    second: PC Computer - Beetle Junior - Explosion_50
+  - first:
+      213: -4586576615989250265
+    second: PC Computer - Beetle Junior - Explosion_51
+  - first:
+      213: -2043523452202204436
+    second: PC Computer - Beetle Junior - Explosion_52
+  - first:
+      213: 5984425684722029444
+    second: PC Computer - Beetle Junior - Explosion_53
+  - first:
+      213: -7854868564101827365
+    second: PC Computer - Beetle Junior - Explosion_54
+  - first:
+      213: 852917563862736194
+    second: PC Computer - Beetle Junior - Explosion_55
+  - first:
+      213: 3954380130059122306
+    second: PC Computer - Beetle Junior - Explosion_56
+  - first:
+      213: 8611420660693040758
+    second: PC Computer - Beetle Junior - Explosion_57
+  - first:
+      213: 7833845362117929655
+    second: PC Computer - Beetle Junior - Explosion_58
+  - first:
+      213: -3025348179987152926
+    second: PC Computer - Beetle Junior - Explosion_59
+  - first:
+      213: -5295028239240736800
+    second: PC Computer - Beetle Junior - Explosion_60
+  - first:
+      213: 2630198789662685608
+    second: PC Computer - Beetle Junior - Explosion_61
+  - first:
+      213: -7895633602137713170
+    second: PC Computer - Beetle Junior - Explosion_62
+  - first:
+      213: -4282018018909577278
+    second: PC Computer - Beetle Junior - Explosion_63
+  - first:
+      213: 1124205855008436421
+    second: PC Computer - Beetle Junior - Explosion_64
+  - first:
+      213: -5376050986050283748
+    second: PC Computer - Beetle Junior - Explosion_65
+  - first:
+      213: -6863759141804290290
+    second: PC Computer - Beetle Junior - Explosion_66
+  - first:
+      213: 7700857155690703633
+    second: PC Computer - Beetle Junior - Explosion_67
+  - first:
+      213: 1288294770490710395
+    second: PC Computer - Beetle Junior - Explosion_68
+  - first:
+      213: -780767210627069164
+    second: PC Computer - Beetle Junior - Explosion_69
+  - first:
+      213: -7815828145017101127
+    second: PC Computer - Beetle Junior - Explosion_70
+  - first:
+      213: -7738902682159054171
+    second: PC Computer - Beetle Junior - Explosion_71
+  - first:
+      213: 1731743052827418745
+    second: PC Computer - Beetle Junior - Explosion_72
+  - first:
+      213: -4999616557132637096
+    second: PC Computer - Beetle Junior - Explosion_73
+  - first:
+      213: 2522561918472500361
+    second: PC Computer - Beetle Junior - Explosion_74
+  - first:
+      213: -2837028850643282405
+    second: PC Computer - Beetle Junior - Explosion_75
+  - first:
+      213: -8772903486809243558
+    second: PC Computer - Beetle Junior - Explosion_76
+  - first:
+      213: -3036818156009851683
+    second: PC Computer - Beetle Junior - Explosion_77
+  - first:
+      213: -3660472848800029261
+    second: PC Computer - Beetle Junior - Explosion_78
+  - first:
+      213: 7485058918212997511
+    second: PC Computer - Beetle Junior - Explosion_79
+  - first:
+      213: -3474541508768549123
+    second: PC Computer - Beetle Junior - Explosion_80
+  - first:
+      213: 5224660664427875813
+    second: PC Computer - Beetle Junior - Explosion_81
+  - first:
+      213: -6704836991870804149
+    second: PC Computer - Beetle Junior - Explosion_82
+  - first:
+      213: 6750564342668550210
+    second: PC Computer - Beetle Junior - Explosion_83
+  - first:
+      213: -1608324813679667366
+    second: PC Computer - Beetle Junior - Explosion_84
+  - first:
+      213: -4681971537713811819
+    second: PC Computer - Beetle Junior - Explosion_85
+  - first:
+      213: -9057794869294840400
+    second: PC Computer - Beetle Junior - Explosion_86
+  - first:
+      213: -4530364845433204424
+    second: PC Computer - Beetle Junior - Explosion_87
+  - first:
+      213: -7075482048276566082
+    second: PC Computer - Beetle Junior - Explosion_88
+  - first:
+      213: -3917399194784532145
+    second: PC Computer - Beetle Junior - Explosion_89
+  - first:
+      213: 2262399951263156874
+    second: PC Computer - Beetle Junior - Explosion_90
+  - first:
+      213: -5762620827807982611
+    second: PC Computer - Beetle Junior - Explosion_91
+  - first:
+      213: 5344891610974328522
+    second: PC Computer - Beetle Junior - Explosion_92
+  - first:
+      213: -4028801594681924925
+    second: PC Computer - Beetle Junior - Explosion_93
+  - first:
+      213: -1039678747050670180
+    second: PC Computer - Beetle Junior - Explosion_94
+  - first:
+      213: 6063935480565458571
+    second: PC Computer - Beetle Junior - Explosion_95
+  - first:
+      213: 933835631324929843
+    second: PC Computer - Beetle Junior - Explosion_96
+  - first:
+      213: 5921284484886690035
+    second: PC Computer - Beetle Junior - Explosion_97
+  - first:
+      213: 4815760228110679100
+    second: PC Computer - Beetle Junior - Explosion_98
+  - first:
+      213: 4903792861693261244
+    second: PC Computer - Beetle Junior - Explosion_99
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d49795c24532448f458585045ca69
+      internalID: 3661875320291741496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 202
+        width: 143
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46968fca73852fb4195c59e12ac03cc5
+      internalID: -81423212792942592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 235
+        width: 126
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9171b5cb3d32f45add652a6764fffb
+      internalID: -198607912265625531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 327
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cdb0fe49ecdff419ebda1860ff267e
+      internalID: -7979288439613375173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 308
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1a5290f6bd88442905004c08cf862c
+      internalID: 6074076562373187398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 286
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86bea9b95f7bbb49b95873655a6081e
+      internalID: -8212398590035202869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 291
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d60f92eba864049b3a452c6f19123d
+      internalID: -1727457923938759984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 280
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f46e40ba64aba4086222517b257759
+      internalID: 2169583073111145648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65fdb4a9885ede488f3066ea34b3e3b
+      internalID: -4217229720616915381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 249
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bdceb83d18a66498acbe0575d47d77
+      internalID: 822833271383618747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 253
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55be9bc41ddb5942b603185a442144c
+      internalID: -185176226474216958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 179
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b00dbe49bba7748a705a87195f92d4
+      internalID: -7083379403619502164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 238
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745425cabc74eb34188b274804b68ea9
+      internalID: -2701866831420862787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f222119f935447bbb517b99d97674
+      internalID: -4965573265201361339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 172
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e507d35fd5d98ee40a494def0dd434db
+      internalID: -409458016624903529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 135
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98c8801f927cc94c9cb6e17691759ef
+      internalID: -1880703694268775336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 198
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6095995ebb34188449e037ef1c941efd
+      internalID: 158807463120262171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a9e1be02b5b54daaad92befb16311
+      internalID: -5473219103841928223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 179
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188be5e8c9b44df4c98beb2b51b150a8
+      internalID: -4425891867351485467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 179
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cb4910bfda7aa4aad464b5b5c5b323
+      internalID: 4548363653071514055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 179
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ed1da29cc088b46a596a1e40605996
+      internalID: 5391957143938887650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_21
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 174
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a388afe634230994799e8d44814f5bd1
+      internalID: 2851518143897351345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2832c61681469384e9b8279879cfd02d
+      internalID: -6326270369230135659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 162
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39504ad0a3a504888485b60bb0976e
+      internalID: 8693507371873081542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 159
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3725671eae16cd4f890afca0907cc9a
+      internalID: 1142854993921824855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 170
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2affd5053234348a2395981b4ef1e1
+      internalID: 5394418442726954519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8f5e6bdcb56c6439eb0d0dac5dab5a
+      internalID: 4147197866949545097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 163
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edda6948101746499b76e4a2a9dd23d
+      internalID: -7650184887249181343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 168
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fd5e14a7ed8f54184910ef4384d8f8
+      internalID: 8861907924895035006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 145
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5d7203243257e4886dcb2a872b5b2c
+      internalID: -5078156262441073406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 157
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df96ccc510551f4fb207ffe35f4e828
+      internalID: 3841976014268233335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 141
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c59141a95a6f447b2e8040fae96f56
+      internalID: 1067591994526443156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_32
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 92
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d669aa26f18f04d4bb97db022034b361
+      internalID: -3804231152957961886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 155
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ae36571b7c034da56d2ee7926f714
+      internalID: 3760586323840807224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_34
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 157
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77e9c964694af4d99dabe358e96449
+      internalID: -1434569973120914368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 138
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937eafa76d71fea408e42c762cbb6d7b
+      internalID: 569426980412033344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 142
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c439335ae3a1e74e9eb8b47b2167b65
+      internalID: 5431268542950362152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 141
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d31ff01e16b4745ad27c53aa7b85a1
+      internalID: -6380795199582310304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 141
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6599262a4e49c504e95b33616315f470
+      internalID: -979791285985356666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_39
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 145
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7e041067ae8ae46b8d9d2160db793a
+      internalID: 4030366410621771283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af4061eb3a10424eb9a165ac0ff833b
+      internalID: 7559849062788804774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 128
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d36052a2d1a9748902a5f641b0beae
+      internalID: -2666443536139254947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 138
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d9c9d2585dac4e8ab9b3305682e06
+      internalID: 6123386080203034533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 130
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d36cd4840b06094a9638d2588a158cc
+      internalID: -2050124283155465635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_44
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707fce4ea00ac97448ac5abf12971ed7
+      internalID: -4060154922847747625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8744c3c79f9cb438f1d7fe3488cf04
+      internalID: -8176485532892539603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_46
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 112
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c76ee300950344cbb713167008b757
+      internalID: -5859765089380152847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 116
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1bc7f64c1c5b4ab74124759a16262
+      internalID: -4629351609633270731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 75
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5d3879580022e438d25e8fe6faa009
+      internalID: -9167533556930011020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 109
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f98c094e17249847bf836eed81b082d
+      internalID: 4040822788670402460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_50
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad1c9af6e84b994e98f818c37ac0759
+      internalID: 9003106140732162014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 106
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5456cdc8e45654439cdb74c24b284b5
+      internalID: -4586576615989250265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 73
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8192673de446746b15d37a4a21df4b
+      internalID: -2043523452202204436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f739e78b387bf4aa3d8c5308f4c7df
+      internalID: 5984425684722029444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 44
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99d2cfd4984254b9235c15c7fc9e80
+      internalID: -7854868564101827365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_55
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da80d3d2d224eba49af5473bde99f561
+      internalID: 852917563862736194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 87
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b133fad8cc1e04459b79281825727a2
+      internalID: 3954380130059122306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc336404e21ee4782d5258b103b8ae
+      internalID: 8611420660693040758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbb9deac92f67942bdb36143864115e
+      internalID: 7833845362117929655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 78
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fc651845acb24a9ae4e3c4c5260b6
+      internalID: -3025348179987152926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_60
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 80
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a439629c4bee0af41b8af44c232d9fbf
+      internalID: -5295028239240736800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 77
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec25a6b00ef8c4a4f83388520f985167
+      internalID: 2630198789662685608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_62
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 16
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf703f7fa96a44a9f6d4e084d7bb49
+      internalID: -7895633602137713170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_63
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 73
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0f214b4e0ad5e4fba89117b0e7cf5f
+      internalID: -4282018018909577278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_64
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925564c66060578488a76a9c72a2a220
+      internalID: 1124205855008436421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_65
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df837d0269db1e4bab239885ec731eb
+      internalID: -5376050986050283748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b9c23d0188b446a973350b394a25e
+      internalID: -6863759141804290290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b1d46fbe43cf498f4a14ea32cedfc
+      internalID: 7700857155690703633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_68
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a20a17e715a9784ba5a21913d127f69
+      internalID: 1288294770490710395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_69
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 61
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bac05460842e184ca186886cf4a4ace
+      internalID: -780767210627069164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_70
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 64
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4c313b332efc744a1354dc31b35d33
+      internalID: -7815828145017101127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_71
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a920a5279fe3834fa5efc0dfce8180c
+      internalID: -7738902682159054171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_72
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 68
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd249e0faac8e84ab6718e199a0e49d
+      internalID: 1731743052827418745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_73
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 59
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972f61209aabab747b035a2f2dd8afb2
+      internalID: -4999616557132637096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_74
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 66
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863d89d80d5bbb468e4415aa54054ab
+      internalID: 2522561918472500361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 49
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696333083ba9cb549a2836257f641dfc
+      internalID: -2837028850643282405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 53
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1688c4d9541f5746934798895cd4c0f
+      internalID: -8772903486809243558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_77
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 53
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a089e9958c5d8154fbb868d8f8ab9497
+      internalID: -3036818156009851683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfdbb8121835e242aa29580931a3073
+      internalID: -3660472848800029261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_79
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca16552361b4aae4ca737d79ec589358
+      internalID: 7485058918212997511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_80
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 45
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d320ef834ba801940bba53af03b0abb5
+      internalID: -3474541508768549123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_81
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 52
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0a6a823847d0c45bb90cf549fa7d25
+      internalID: 5224660664427875813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_82
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 44
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3980e8b6acfd84aa23c33c98f8b10a
+      internalID: -6704836991870804149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_83
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 34
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f237767eaa13d4d9c3fcf4cae8cfbe
+      internalID: 6750564342668550210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_84
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc9b17230a86fd4d8faefc1b894acab
+      internalID: -1608324813679667366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 35
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa9143b3a3190f44bf25561256c4fcd
+      internalID: -4681971537713811819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_86
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e25c2d38d8dd141b3c0b15ba49ec6d
+      internalID: -9057794869294840400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_87
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 32
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938bcdc895db3ff459c6fac000bf3bf5
+      internalID: -4530364845433204424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_88
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 40
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eed4904dcff314bba07f7e4f9e90e5
+      internalID: -7075482048276566082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_89
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c837e334bacc448edabe22539911a
+      internalID: -3917399194784532145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_90
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 39
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a228f7046cd7ee24a8cb4eab455580dd
+      internalID: 2262399951263156874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_91
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 27
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1dedfd2415b0442baea7ac3ab37e2c
+      internalID: -5762620827807982611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_92
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a651c0c67510b48a16dfc079ca129e
+      internalID: 5344891610974328522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_93
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cabdc1f8aeae54ab517d81bea8b688
+      internalID: -4028801594681924925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_94
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 11
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547ac2cd83a875c43bb8916d5ed30188
+      internalID: -1039678747050670180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_95
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21a241594bb644dbfb398253988b34
+      internalID: 6063935480565458571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_96
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbabe6a572d3024ea1dec8255c49e87
+      internalID: 933835631324929843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_97
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e493d333b50dc07488c8bf6a55dd85d0
+      internalID: 5921284484886690035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_98
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013017f690d0c8646af64102e6901a20
+      internalID: 4815760228110679100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Beetle Junior - Explosion_99
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f80601d664968458e3768844484392
+      internalID: 4903792861693261244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fad2b3518250c634ba0997594286c001
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

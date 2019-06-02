@@ -1,0 +1,3341 @@
+fileFormatVersion: 2
+guid: 23344c928fb8d144488f8811a7284a99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8498556593410127147
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_0
+  - first:
+      213: 8348049668314059099
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_1
+  - first:
+      213: -4617172588395820281
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_2
+  - first:
+      213: -8627021319824606710
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_3
+  - first:
+      213: -4540414425997264593
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_4
+  - first:
+      213: -2209811994689707557
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_5
+  - first:
+      213: 2088626069083732258
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_6
+  - first:
+      213: 4155578902740064464
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_7
+  - first:
+      213: -74062965700219837
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_8
+  - first:
+      213: 1678142678538027453
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_9
+  - first:
+      213: -1364023185470410312
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_10
+  - first:
+      213: 6942287394631869433
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_11
+  - first:
+      213: 174254826212253417
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_12
+  - first:
+      213: -3469303309462377451
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_13
+  - first:
+      213: -4579687980843640757
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_14
+  - first:
+      213: 8437310995776032969
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_15
+  - first:
+      213: 1296180094967456787
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_16
+  - first:
+      213: -1940299033038582164
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_17
+  - first:
+      213: -951466538292114806
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_18
+  - first:
+      213: -2048564090023939269
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_19
+  - first:
+      213: 7639187787036985947
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_20
+  - first:
+      213: 7796416525682228173
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_21
+  - first:
+      213: 1168689243663441852
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_22
+  - first:
+      213: 5914187693073621468
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_23
+  - first:
+      213: 1869127309527362152
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_24
+  - first:
+      213: 7968796977186366211
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_25
+  - first:
+      213: -217471218463177385
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_26
+  - first:
+      213: -6137037955829328935
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_27
+  - first:
+      213: 876609443829695930
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_28
+  - first:
+      213: 529634630197792894
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_29
+  - first:
+      213: -1806413269120300514
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_30
+  - first:
+      213: -5010072818502305330
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_31
+  - first:
+      213: 1711426718486481760
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_32
+  - first:
+      213: 8232281702164533541
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_33
+  - first:
+      213: -3401018576582555944
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_34
+  - first:
+      213: 9107212252429297077
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_35
+  - first:
+      213: -389320169159011369
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_36
+  - first:
+      213: -8972447954732161536
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_37
+  - first:
+      213: 5183878894268451896
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_38
+  - first:
+      213: 3439333923328758161
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_39
+  - first:
+      213: 2411503644478452932
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_40
+  - first:
+      213: -1210630077999714789
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_41
+  - first:
+      213: -4708583228909560704
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_42
+  - first:
+      213: -5835844625980078966
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_43
+  - first:
+      213: 629370083950942220
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_44
+  - first:
+      213: 4396581721107693752
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_45
+  - first:
+      213: 374131054363007231
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_46
+  - first:
+      213: 350285938171365562
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_47
+  - first:
+      213: 7554970481849752309
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_48
+  - first:
+      213: -1844427559250521967
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_49
+  - first:
+      213: -765627739863645144
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_50
+  - first:
+      213: -1103144713359638105
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_51
+  - first:
+      213: -5038126486539541986
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_52
+  - first:
+      213: 7019774389130727781
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_53
+  - first:
+      213: 1332278365276476057
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_54
+  - first:
+      213: -473795940268152088
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_55
+  - first:
+      213: -3164702389849287169
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_56
+  - first:
+      213: 6689973129035299154
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_57
+  - first:
+      213: -5151583997186463717
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_58
+  - first:
+      213: -8309964593166576657
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_59
+  - first:
+      213: -7059684035911639087
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_60
+  - first:
+      213: -3649555470247706505
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_61
+  - first:
+      213: -4009038830999240746
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_62
+  - first:
+      213: -1457083596051951518
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_63
+  - first:
+      213: 3075850019390526570
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_64
+  - first:
+      213: 3186661023882618537
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_65
+  - first:
+      213: 7487558088399663423
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_66
+  - first:
+      213: -5648665930440354831
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_67
+  - first:
+      213: 1660700012004087409
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_68
+  - first:
+      213: -4825976347900444433
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_69
+  - first:
+      213: -689789137620514564
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_70
+  - first:
+      213: 7606745841815134220
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_71
+  - first:
+      213: -5922192478171686460
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_72
+  - first:
+      213: 375477751896963785
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_73
+  - first:
+      213: 2189244727353681219
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_74
+  - first:
+      213: 540988869987550033
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_75
+  - first:
+      213: -6712912667260742046
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_76
+  - first:
+      213: -1504477766411873350
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_77
+  - first:
+      213: 1890670631210615240
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_78
+  - first:
+      213: -2380051350705265218
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_79
+  - first:
+      213: 4256618667432433128
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_80
+  - first:
+      213: 9178330857106159117
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_81
+  - first:
+      213: 3219496809499993541
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_82
+  - first:
+      213: 5099248205226529632
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_83
+  - first:
+      213: -6458518745498404102
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_84
+  - first:
+      213: -4137922519242796993
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_85
+  - first:
+      213: 1273789339502461070
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_86
+  - first:
+      213: 5282429329842814226
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_87
+  - first:
+      213: -4258560666016167861
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_88
+  - first:
+      213: -2263277363782844354
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_89
+  - first:
+      213: 1708961102627467294
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_90
+  - first:
+      213: -3422998452974172125
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_91
+  - first:
+      213: -4903995879614100174
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_92
+  - first:
+      213: -6451823686995658718
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_93
+  - first:
+      213: -38133060481434216
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_94
+  - first:
+      213: -7197644232798910457
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_95
+  - first:
+      213: 5932066183433259957
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_96
+  - first:
+      213: -3272362312304477154
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_97
+  - first:
+      213: -3727074228441600481
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_98
+  - first:
+      213: -578343951656021408
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_99
+  - first:
+      213: 614384562924111611
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_100
+  - first:
+      213: 7632749521311851909
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_101
+  - first:
+      213: 5517294456422973120
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_102
+  - first:
+      213: 3004618306722503150
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_103
+  - first:
+      213: -2836697835959560471
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_104
+  - first:
+      213: 459039986211790055
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_105
+  - first:
+      213: 1189597138851970305
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_106
+  - first:
+      213: 3723111333375133247
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_107
+  - first:
+      213: 1726844133850544399
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_108
+  - first:
+      213: -3063415348871696089
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_109
+  - first:
+      213: -2649174445074018675
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_110
+  - first:
+      213: 2256573683713406120
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_111
+  - first:
+      213: 6591033964443756851
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_112
+  - first:
+      213: -7526234748985135742
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_113
+  - first:
+      213: -4919474343726519223
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_114
+  - first:
+      213: -4403789139286109275
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_115
+  - first:
+      213: 3333879980382877314
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_116
+  - first:
+      213: -2015989889176044770
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_117
+  - first:
+      213: -6747688308178848614
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_118
+  - first:
+      213: 1491714342226529018
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_119
+  - first:
+      213: -7251062899542417840
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_120
+  - first:
+      213: 8757682834611540588
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_121
+  - first:
+      213: 6312190046866678779
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_122
+  - first:
+      213: -7893203794452566051
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_123
+  - first:
+      213: -8805096123380000156
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_124
+  - first:
+      213: -7819793924419587289
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_125
+  - first:
+      213: -504805321594962000
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_126
+  - first:
+      213: 3521003969579130015
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_127
+  - first:
+      213: -7233448383676147267
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_128
+  - first:
+      213: -1620857909403023341
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_129
+  - first:
+      213: -7291606974232408992
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_130
+  - first:
+      213: 3619639109489130627
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_131
+  - first:
+      213: 979726273739753350
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_132
+  - first:
+      213: -3349310527067872069
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_133
+  - first:
+      213: -5604829873646894630
+    second: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_134
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 193
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f4b7543b25e0143a3e829b0a20d71a
+      internalID: -8498556593410127147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 194
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5754dfef93ffa59469237cd9e211bc75
+      internalID: 8348049668314059099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 193
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf6b919fa0ff004c8ef89a511cef2d2
+      internalID: -4617172588395820281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e02152d8a7cb5c418e1e19a0cd517c6
+      internalID: -8627021319824606710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 195
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cf7994cc623af4c9d5b4b89264d3a2
+      internalID: -4540414425997264593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 193
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f194ae9de9117ac46a3d2df26d2556cc
+      internalID: -2209811994689707557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 194
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985de18d2d3f3b94a9b0f406ccd8b63c
+      internalID: 2088626069083732258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 192
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c8df9492280aa4f97229d247368899
+      internalID: 4155578902740064464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9afeb8d815d84dbf4266e27a4de94
+      internalID: -74062965700219837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 192
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1399f9a66a1d6e04eada29a3e708f6fa
+      internalID: 1678142678538027453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 192
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b04722b0ca1540807214bb493d46b
+      internalID: -1364023185470410312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625fe5e6487656746ae4b3aa5ef18792
+      internalID: 6942287394631869433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 192
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da19ed539b4e54cb5d8f3a2e24741f
+      internalID: 174254826212253417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 192
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b7e202544b51f4a9217d041060091e
+      internalID: -3469303309462377451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 192
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bb0847e7a87734eb604f212e56e2f8
+      internalID: -4579687980843640757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 192
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2079f096833b644a220b5906a66a5c
+      internalID: 8437310995776032969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 194
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e890c80932dc4eb41cc74744cceee
+      internalID: 1296180094967456787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 192
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7557c50fa44aa4bb9f4c55b9f53085
+      internalID: -1940299033038582164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 160
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a1a9c11fc0ae4d9d68eaef6a15081
+      internalID: -951466538292114806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 160
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b940cc5698b49d4bbbd1afcd882e6d5
+      internalID: -2048564090023939269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98accea781ad5f34eaa0169e7efd252b
+      internalID: 7639187787036985947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 162
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11a3812a5b00d439f16c1fcaa1e027
+      internalID: 7796416525682228173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 161
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc768cab01d3804186533e005590060
+      internalID: 1168689243663441852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 162
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead1b0d0032a83746987015842d12754
+      internalID: 5914187693073621468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 162
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f28348c71e4c5498f364fb7263b631
+      internalID: 1869127309527362152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 160
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999442f1c848ce42b4234bc34c57160
+      internalID: 7968796977186366211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 160
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071fe1b347a63884daa588d7ac240422
+      internalID: -217471218463177385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 160
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40be07f9c7b38d4f960a781c30b67ab
+      internalID: -6137037955829328935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 160
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e89e96b33373f0428dde11f5e9b7da3
+      internalID: 876609443829695930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 161
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26393875b6b40364498ead52fcaa515f
+      internalID: 529634630197792894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 161
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc83356f9ce3041ae52839c441378e
+      internalID: -1806413269120300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 161
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9681262b80b1246b37adec28526af4
+      internalID: -5010072818502305330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 161
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a867fc72ffd3439a226efc78813cf
+      internalID: 1711426718486481760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_33
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 160
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c154fb1ade711e4a9e84c266365cd72
+      internalID: 8232281702164533541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_34
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 161
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372ab09594d3c1842a21eaa7278bf6a6
+      internalID: -3401018576582555944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_35
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 161
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f631f31246d214e9042976eef56617
+      internalID: 9107212252429297077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58ef0abc8b864846b69bb93f1fdeab4
+      internalID: -389320169159011369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 128
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb095d7c1d0ec42aa45abd46165ae2
+      internalID: -8972447954732161536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 130
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee11476cd1fc65498e92008dee369d8
+      internalID: 5183878894268451896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1822b027a2fc5104f8dea9f6b670ecce
+      internalID: 3439333923328758161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 130
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff00bbb05b75144f8f2609fd6e4d040
+      internalID: 2411503644478452932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73cebc467d03ce41adc39440ba99794
+      internalID: -1210630077999714789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_42
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 128
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c25f1e4f13a34bae1777b9de73269
+      internalID: -4708583228909560704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2146f016d7f89f64c87eea823e60cc9e
+      internalID: -5835844625980078966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 96
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc137a46e8ba284a959a5f5466fae1d
+      internalID: 629370083950942220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_45
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 128
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116c482dffb16724cbbdabf6825e6f02
+      internalID: 4396581721107693752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 129
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add49589b42716249b118748926717fd
+      internalID: 374131054363007231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_47
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 129
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc14dc8e43d9bbf4f916c0c5c571ea71
+      internalID: 350285938171365562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_48
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 129
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547bdb2eeca2681408828616a6fe35a3
+      internalID: 7554970481849752309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_49
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 130
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94acf3241ce6181439a75821e711abab
+      internalID: -1844427559250521967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_50
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 128
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1ff8f4c63351140908356c3ec96e52
+      internalID: -765627739863645144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_51
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 129
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a821db6f8d4c41aa558dc4f99e87e
+      internalID: -1103144713359638105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_52
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 128
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ddb4c221c123c4bbd96b7903b07ab7
+      internalID: -5038126486539541986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 96
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be454a6eccdc8e4c8ddfb68fb313e9f
+      internalID: 7019774389130727781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_54
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4dfa58b22fa5243b9304fb817571dc
+      internalID: 1332278365276476057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_55
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b904791eb71c7a940b498b0be77058d9
+      internalID: -473795940268152088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe9ac2a9c890740afacb26815d953f
+      internalID: -3164702389849287169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb22597c269c554a9b42ef85d75db87
+      internalID: 6689973129035299154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30fd4aecb4a60e419e242e397d12bd0
+      internalID: -5151583997186463717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43c8190b7c864545bd041129baa3856
+      internalID: -8309964593166576657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_60
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 96
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509949fbc8a9ce428690664962b8fc2
+      internalID: -7059684035911639087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 98
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daea7c96e1e85a47bb5bb10b90edceb
+      internalID: -3649555470247706505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_62
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 96
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef73b437ee1a247a010f19b7183d04
+      internalID: -4009038830999240746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_63
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 96
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a538fc4840c4b443b5c8d6ce568fca4
+      internalID: -1457083596051951518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_64
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29f50fb26bad3b41b8ad18e8fcb9064
+      internalID: 3075850019390526570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_65
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 97
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14512cfa1ecf4a47b27931b1bf4008a
+      internalID: 3186661023882618537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_66
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 98
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45195ebe35d16b64a99cfc0ba852e76a
+      internalID: 7487558088399663423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_67
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 64
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e308541638a3d478e08fccd7a1e5c4
+      internalID: -5648665930440354831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 97
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f52a6d21c9fd4f949c6bf0fa00120
+      internalID: 1660700012004087409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_69
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 97
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db3bd56da96478499b0bc084d288fca
+      internalID: -4825976347900444433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec16644f9689c4fb2af3c3c91c30dd
+      internalID: -689789137620514564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_71
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733f380f31157343bd6d9ee937671ae
+      internalID: 7606745841815134220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 64
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08188937989e44a4cb6a0df7343410d8
+      internalID: -5922192478171686460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61e395cd2cdd454cbabcad7e2757cec
+      internalID: 375477751896963785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 67
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8909c6ad6b1478042b248ebbf225cc24
+      internalID: 2189244727353681219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 64
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a410e23250b04b348a6892a6ab8ac93c
+      internalID: 540988869987550033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc77f3883a08a754fb72efce6ae01fcc
+      internalID: -6712912667260742046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_77
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c885d479cce741bc6728e1ea92218
+      internalID: -1504477766411873350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 66
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f15d4bd4d2901049b2c3b70463102ab
+      internalID: 1890670631210615240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 32
+        width: 17
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20132ee97a1e55f45afc11b6234c14f5
+      internalID: -2380051350705265218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_80
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b92be162efddf42957fbcdb8796be5
+      internalID: 4256618667432433128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_81
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 65
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00a7f0b31d39a945acc63a4ec3ba9bc
+      internalID: 9178330857106159117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_82
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 67
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15128dc302a2354c9182aaf92b09486
+      internalID: 3219496809499993541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_83
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418abff451bd09c4aa38b44e40960921
+      internalID: 5099248205226529632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_84
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f44e2cdf9f9c8541ac0f399e54ec5f0
+      internalID: -6458518745498404102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaeee4afb8d63b43acb47f0330d1365
+      internalID: -4137922519242796993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 34
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7ab1b91900d26429b488d709286353
+      internalID: 1273789339502461070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_87
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0ce0fba83d3f340bfced6bf7c225a6
+      internalID: 5282429329842814226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_88
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 32
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146db9abc9fbe84f9a2997b86fef697
+      internalID: -4258560666016167861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 32
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7c5f26c007e2942836b29e00cfec5f
+      internalID: -2263277363782844354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_90
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 34
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c268885d999844a1fd0f46ff0d7d6
+      internalID: 1708961102627467294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_91
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 33
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a6c1009cb3e624f9c6cb4ef18564b1
+      internalID: -3422998452974172125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_92
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 34
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dac225d4078cc42989f79b91e1db2d
+      internalID: -4903995879614100174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_93
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 33
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11473594b5d6a454d9942ca6041ddf77
+      internalID: -6451823686995658718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_94
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 34
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab23b57e3fd9eb48b7eb324c71ed0e6
+      internalID: -38133060481434216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_95
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d808da2a47ac34397756b9ef3f327e
+      internalID: -7197644232798910457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_96
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 34
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cdb77e2ecd3b34ba09c0cbd9f68f0c
+      internalID: 5932066183433259957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_97
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 32
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c14fdb2a998f54d92213b379e2b77f
+      internalID: -3272362312304477154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_98
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184562d4c68312048be5f02333fe566f
+      internalID: -3727074228441600481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_99
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4628c636dfdc7249a438b7f344e499e
+      internalID: -578343951656021408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_100
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ca20ab5296d6144b3e07fdb16cca4d
+      internalID: 614384562924111611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_101
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6287fdb5a3af8c4cacde2d56f6c169a
+      internalID: 7632749521311851909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_102
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3513c9cf8715b8c4aa2f233bb4516e04
+      internalID: 5517294456422973120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_103
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c641892af1017945a875f4885029a64
+      internalID: 3004618306722503150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bfa9c9ce5b1314bad1f5a82bf03063
+      internalID: -2836697835959560471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_105
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78bacad2fda98848a39d15f270c5bd2
+      internalID: 459039986211790055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_106
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aad6e8d4d82c74897f6698d1f1f4cc
+      internalID: 1189597138851970305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_107
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df1a178c32fabb4c904c317642db80d
+      internalID: 3723111333375133247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_108
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 9
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d325d377f3a9b4b9dffdfa2ef090ee
+      internalID: 1726844133850544399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_109
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b05556905f7fb64ab6c22af7ce2f77c
+      internalID: -3063415348871696089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_110
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a056955acdfd366489d9438f95fb81c1
+      internalID: -2649174445074018675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_111
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d650e560a609e48b42272253bf88c6
+      internalID: 2256573683713406120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_112
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537bbe00fb7417349be8b7625122a142
+      internalID: 6591033964443756851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_113
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 18
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d0d738a74a384385d19c478b228ba
+      internalID: -7526234748985135742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_114
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b063ebe06f1794a878cc2e84b115c6
+      internalID: -4919474343726519223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_115
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276caf58a8d2d9747b9a45b4ac774953
+      internalID: -4403789139286109275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_116
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcb3b4018a2a8e4bbf25a77be84b8d5
+      internalID: 3333879980382877314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_117
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 18
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25992c6ba15941d4aa7784c5a172b2b9
+      internalID: -2015989889176044770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_118
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a80af9984ee84982a5b6e0912fa1a
+      internalID: -6747688308178848614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_119
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d9e366c716b974a8c2d02d07f754de
+      internalID: 1491714342226529018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_120
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbe38bdae33eda46a107fd6c1b5dd61
+      internalID: -7251062899542417840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_121
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d571fde3d6a000448af7e57e36b53c0f
+      internalID: 8757682834611540588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_122
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 9
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb67bc555a21fe24db2e470a1b38bbb8
+      internalID: 6312190046866678779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_123
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501965c81ec85c1488ff431276ea70c9
+      internalID: -7893203794452566051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_124
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8da4aad49f7654a9bf6e533b486053
+      internalID: -8805096123380000156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_125
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c729e5d0eefc148a307515e32d7d8b
+      internalID: -7819793924419587289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_126
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 7
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a77f2d14b0ca9146bee235f6cc0272b
+      internalID: -504805321594962000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_127
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bceff4caff4d724e8d3d9348456fad3
+      internalID: 3521003969579130015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_128
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 9
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cdaf0e91822014c87695f674a147a5
+      internalID: -7233448383676147267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_129
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be128f8fdbc7cfa43958651333b93b02
+      internalID: -1620857909403023341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_130
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799667aba7d76b14194b8780e3982616
+      internalID: -7291606974232408992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_131
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 9
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00a1824415518c4a97db8f002d716d5
+      internalID: 3619639109489130627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_132
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99bf7fcdb3dd8f41afdb633b2ac2d2f
+      internalID: 979726273739753350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_133
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab8fddf46ec91142b1abb41923a2009
+      internalID: -3349310527067872069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Dun-Dam Dungeons and Dam - Unit 01_134
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 9
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed01acab5ea5e478cab86ec556c708
+      internalID: -5604829873646894630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ee73054916d4d2348a52b88251ef45ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

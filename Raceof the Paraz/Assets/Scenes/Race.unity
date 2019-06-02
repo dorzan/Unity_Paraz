@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Obstacle
       objectReference: {fileID: 0}
+    - target: {fileID: 100012, guid: a8b0c9ac90a271743bbfa8b3f64de4fd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400012, guid: a8b0c9ac90a271743bbfa8b3f64de4fd, type: 3}
       propertyPath: m_LocalPosition.x
       value: -35.68171
@@ -2616,6 +2620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MaceOnChain01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 35e070b87334de349925973666825950, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 35e070b87334de349925973666825950, type: 3}
       propertyPath: m_LocalPosition.x
       value: 31.1
@@ -3783,12 +3791,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98618a1cd0bca384fa4800c4258b98da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  paraz:
-  - {fileID: 3064367221683430327, guid: 8abd0695a12864e4193a1caeaad3a25c, type: 3}
-  - {fileID: 3064367221683430327, guid: 78e669fe3922db443914874be75e9e3b, type: 3}
-  - {fileID: 3064367221683430327, guid: b368bb4fcccc3d84b88ed3f2eb0ce09c, type: 3}
-  - {fileID: 3064367221683430327, guid: 2283b4b816f77354a85c73d6c53ca336, type: 3}
-  parazRace: []
+  parazLobby: {fileID: 0}
+  parazRace: {fileID: 0}
 --- !u!4 &1710402272
 Transform:
   m_ObjectHideFlags: 0
@@ -3938,6 +3942,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a42e12bb7ff3cd41b3fe96063055056, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ParazRacePrefab: {fileID: 0}
 --- !u!4 &1762745758
 Transform:
   m_ObjectHideFlags: 0
@@ -3982,7 +3987,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1856464757}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 75.4, y: 43.9, z: 1}
+  m_LocalPosition: {x: 62.5, y: 45.9, z: 1}
   m_LocalScale: {x: 0.572232, y: 0.572232, z: 0.572232}
   m_Children: []
   m_Father: {fileID: 0}
