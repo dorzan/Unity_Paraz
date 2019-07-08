@@ -1,31 +1,30 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Toolbox;
+using UnityEngine.Tilemaps;
 
-public class FootMan  :  MonoBehaviour, Unit
+public class FootMan  :  Unit
 {
     //constants
-    const int HP_MAX = 100;
 
-    public int HP = HP_MAX;
     public int speed = 5;
     int damage = 15;
     bool isFighting = false;
     bool isTouchedMiddle = false;
     bool isTriggered = false;
-    public bool isDead = false;
     private Animator animator;
     private Rigidbody2D myRigidbody;
     Vector2 direction;
-    Vector2 castlePos;
+    Vector2 destination;
     Vector2 midPos;
     ParazRoyalManager manager;
     private List<GameObject> currentEnemeys;
     private List<GameObject> engagedEnemeys;
-    public int teamId;
     int numOfTriggers = 0;
-
     float attackSpeed = 20;
+
+
 
 
     // Start is called before the first frame update
@@ -39,7 +38,11 @@ public class FootMan  :  MonoBehaviour, Unit
         midPos = GameObject.Find("Middle").transform.position;
         direction = new Vector2(0, 0);
         changeDirectionTowards(midPos);
-        teamId = transform.GetComponentInParent<Castle>().castleId;
+        teamId = transform.GetComponentInParent<Castle>().teamId;
+
+        //delegates
+        manager.OnPlayerdefeated += onPlayerDefeted;
+
 
 
     }
@@ -59,23 +62,51 @@ public class FootMan  :  MonoBehaviour, Unit
                 return;
         }
 
+        LinePath linePath = AStar.FindLinePathClosest(GameObject.Find("PathTilemap").GetComponent<Tilemap>(), transform.position, destination);
+        if (linePath != null)
+        {
+            if (linePath.nodes.Length > 1)
+            {
+                //linePath.Draw();
+                direction = linePath.nodes[1];
+            }
+        }
+        else return;
+
         if (!isTriggered)
-            myRigidbody.MovePosition((Vector2)transform.position + direction * speed * Time.deltaTime);
+            transform.position = Vector3.MoveTowards(transform.position, direction, 0.2f);
+
+        // myRigidbody.MovePosition((Vector2)transform.position + direction * speed * Time.deltaTime);
 
         if (isTriggered)
         {
             changeDirectionTowards(currentEnemeys[0].transform.position);
-            myRigidbody.MovePosition((Vector2)transform.position + direction * speed * Time.deltaTime);
+            transform.position = Vector3.MoveTowards(transform.position, direction, 0.2f);
+
+            // myRigidbody.MovePosition((Vector2)transform.position + direction * speed * Time.deltaTime);
         }
     }
 
 
     void changeDirectionTowards(Vector2 dest)
     {
+        /*
+        destination = dest;
         direction = (dest - (Vector2)transform.position);
         direction.Normalize();
         animator.SetFloat("X", direction.x);
         animator.SetFloat("Y", direction.y);
+        */
+        destination = dest;
+        //LinePath linePath = AStar.FindLinePathClosest(GameObject.Find("PathTilemap").GetComponent<Tilemap>(), transform.position, dest);
+/*
+        if (linePath != null)
+        {
+            linePath.Draw();
+            //transform.position = Vector3.MoveTowards(transform.position, linePath.nodes[1], 0.2f);
+            //direction = Vector3.MoveTowards(transform.position, linePath.nodes[1], 0.2f);
+            destination = linePath.nodes[1];
+        }*/
     }
 
 
@@ -93,7 +124,6 @@ public class FootMan  :  MonoBehaviour, Unit
             //Unit castle = manager.castles[i].GetComponent<Castle>();
             if (manager.castles[i] == null)
             {
-                Debug.Log("CONTINUE");
                 continue;
             }
             dist = Vector2.Distance(transform.position, manager.castles[i].transform.position);
@@ -110,7 +140,7 @@ public class FootMan  :  MonoBehaviour, Unit
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Unit" && !collision.isTrigger)
-            if(collision.gameObject.GetComponentInParent<Castle>().castleId != teamId)
+            if(collision.gameObject.GetComponentInParent<Castle>().teamId != teamId)
             {
                 isTriggered = true;
                 currentEnemeys.Add(collision.gameObject);
@@ -122,7 +152,7 @@ public class FootMan  :  MonoBehaviour, Unit
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Unit" && !collision.isTrigger)
-            if (collision.gameObject.GetComponentInParent<Castle>().castleId != teamId)
+            if (collision.gameObject.GetComponentInParent<Castle>().teamId != teamId)
             {
                 currentEnemeys.Remove(collision.gameObject);
 
@@ -139,7 +169,7 @@ public class FootMan  :  MonoBehaviour, Unit
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Unit")
-            if (collision.gameObject.GetComponentInParent<Castle>().castleId != teamId)
+            if (collision.gameObject.GetComponentInParent<Castle>().teamId != teamId)
             {
                 engagedEnemeys.Add(collision.gameObject);
 
@@ -150,7 +180,7 @@ public class FootMan  :  MonoBehaviour, Unit
 
 
         if (collision.gameObject.tag == "Castle")
-                if(collision.gameObject.GetComponent<Castle>().castleId != teamId)
+                if(collision.gameObject.GetComponent<Castle>().teamId != teamId)
                 {
                     engagedEnemeys.Add(collision.gameObject);
                         fight(collision.gameObject);
@@ -161,7 +191,7 @@ public class FootMan  :  MonoBehaviour, Unit
     private void OnCollisionExit2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Unit")
-            if (collision.gameObject.GetComponentInParent<Castle>().castleId != teamId)
+            if (collision.gameObject.GetComponentInParent<Castle>().teamId != teamId)
             {
                 engagedEnemeys.Remove(collision.gameObject);
                 if (engagedEnemeys.Count == 0)
@@ -172,7 +202,7 @@ public class FootMan  :  MonoBehaviour, Unit
                 return;
             }
         if (collision.gameObject.tag == "Castle")
-            if (collision.gameObject.GetComponent<Castle>().castleId != teamId)
+            if (collision.gameObject.GetComponent<Castle>().teamId != teamId)
             {
                 engagedEnemeys.Remove(collision.gameObject);
                 if (engagedEnemeys.Count == 0)
@@ -223,21 +253,6 @@ public class FootMan  :  MonoBehaviour, Unit
         Destroy(gameObject);
     }
 
-
-    //******* Unit interface implementation*******///
-    //*** 
-    //*******
-
-    public void takeDamage(int damage)
-    {
-        HP -= damage;
-        transform.Find("Canvas").transform.Find("Simple Bar").transform.GetChild(0).GetComponent<SimpleHealthBar>().UpdateBar(HP, HP_MAX);
-        if (HP < 1)
-        {
-            onDie();
-        }
-    }
-
     public void doDamage()
     {
         if (!isFighting)
@@ -259,20 +274,49 @@ public class FootMan  :  MonoBehaviour, Unit
             return;
         }
         opponant.takeDamage(damage);
- 
-
     }
 
-    public void onMidArrival()
+
+    //******* Unit abstract Override implementations*******///
+    //*** 
+    //*******
+
+    public override void takeDamage(int damage)
     {
+        HP -= damage;
+        transform.Find("Canvas").transform.Find("Simple Bar").transform.GetChild(0).GetComponent<SimpleHealthBar>().UpdateBar(HP, HP_MAX);
+        if (HP < 1)
+        {
+            onDie();
+        }
+    }
+
+    public override void onMidArrival()
+    {
+        Debug.Log("dfgdf");
         isTouchedMiddle = true;
         if (!isFighting && !isTriggered)
             changeDirectionTowards(closestCastlePos());
     }
 
-    public bool IsDead()
+    public override bool IsDead()
     {
         return isDead;
     }
+
+    public override void onPlayerDefeted(int playerId)
+    {
+        try
+        {
+            if (destination == manager.castles_positions[playerId])
+                changeDirectionTowards(closestCastlePos());
+        }
+        catch(MissingReferenceException e) { return; }
+            
+          // if(currentEnemeys.Contains(manager.castles[id]))
+    }
+
+
+
 }
 

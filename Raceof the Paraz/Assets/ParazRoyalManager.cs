@@ -6,6 +6,7 @@ public class ParazRoyalManager : MonoBehaviour
 {
     public int numOfPlayers = 4;
     public GameObject[] castles;
+    public Vector2[] castles_positions;
 
     public delegate void callback(int id);
     public event callback OnPlayerdefeated;
@@ -13,11 +14,19 @@ public class ParazRoyalManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        castles_positions = new Vector2[castles.Length];
+        for(int i = 0; i < castles.Length; i++)
+        {
+            castles_positions[i] = castles[i].transform.position;
+        }
           for(int i=0; i < castles.Length; i++)
         {
-            Instantiate(castles[i]);
-        } 
+             Instantiate(castles[i]);
+            if (!castles[i].activeSelf)
+                castles[i] = null;
+
+
+        }
     }
 
 

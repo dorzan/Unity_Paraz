@@ -427,10 +427,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d930efebebfc604bbaa7080f95b0313, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HP_MAX: 100
   HP: 100
-  speed: 5
   isDead: 0
   teamId: 0
+  speed: 5
 --- !u!50 &588980276391674771
 Rigidbody2D:
   serializedVersion: 4

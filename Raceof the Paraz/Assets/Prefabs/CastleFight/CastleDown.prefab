@@ -217,10 +217,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5a2ad2a1ecd5c440b7fb2c59f57f23f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  castleId: 0
+  HP_MAX: 1000
+  HP: 0
+  isDead: 0
+  teamId: 0
   footmanPrefab: {fileID: 9049075199889572800, guid: 7d98b9c6172d661468451109ccdf3e11,
     type: 3}
-  HP_MAX: 1000
   spawnRate: 50
 --- !u!61 &5037424623999990126
 BoxCollider2D:

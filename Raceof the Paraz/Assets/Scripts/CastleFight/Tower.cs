@@ -9,7 +9,7 @@ public class Tower : MonoBehaviour
     private GameObject arrow_prefab;
     int teamId;
     private List<GameObject> targetsInRange;
-    int damage= 1;
+    int damage= 10;
     float attackSpeed = 20;
     bool hasTargetInRange = false;
     int count = 0;
@@ -17,7 +17,7 @@ public class Tower : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        teamId = transform.GetComponentInParent<Castle>().castleId;
+        teamId = transform.GetComponentInParent<Castle>().teamId;
         targetsInRange = new List<GameObject>();
     }
 
@@ -31,7 +31,7 @@ public class Tower : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Unit" && !(collision.isTrigger))
-         if (collision.gameObject.GetComponentInParent<Castle>().castleId != teamId)
+         if (collision.gameObject.GetComponentInParent<Castle>().teamId != teamId)
         {
             hasTargetInRange = true;
             targetsInRange.Add(collision.gameObject);
@@ -45,7 +45,7 @@ public class Tower : MonoBehaviour
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Unit")
-            if (collision.gameObject.GetComponentInParent<Castle>().castleId != teamId)
+            if (collision.gameObject.GetComponentInParent<Castle>().teamId != teamId)
             {
                 targetsInRange.Remove(collision.gameObject);
                 if (targetsInRange.Count == 0)
@@ -65,4 +65,6 @@ public class Tower : MonoBehaviour
         arrow.GetComponent<Arrow>().setEnabled();
         Invoke("fire", 1);
     }
+
+
 }

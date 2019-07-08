@@ -2,14 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Castle : MonoBehaviour, Unit
+public class Castle : Unit
 {
 
-    public int castleId;
     public GameObject footmanPrefab;
-    public int HP_MAX = 100;
-    int HP;
-    bool isDead = false;
     Color[] colors;
     public float spawnRate = 5;
 
@@ -33,12 +29,12 @@ public class Castle : MonoBehaviour, Unit
     void spawnFootman()
     {
         GameObject footman = Instantiate(footmanPrefab, transform.Find("SpawnPos").transform.position, Quaternion.identity) as GameObject;
-        footman.GetComponent<SpriteRenderer>().color = colors[castleId];
+        footman.GetComponent<SpriteRenderer>().color = colors[teamId];
         footman.transform.parent = this.transform;
         Invoke("spawnFootman", 100f / spawnRate);
     }
 
-    public void takeDamage(int damage)
+    public override void takeDamage(int damage)
     {
         HP -= damage;
         transform.Find("Canvas").transform.Find("Simple Bar").transform.GetChild(0).GetComponent<SimpleHealthBar>().UpdateBar(HP, HP_MAX);
@@ -52,20 +48,24 @@ public class Castle : MonoBehaviour, Unit
     void onPlayerLost()
     {
         isDead = true;
-        Debug.Log("player" + castleId + "has lost");
+        Debug.Log("player" + teamId + "has lost");
         CancelInvoke();
         gameObject.GetComponent<BoxCollider2D>().enabled = false;
         GetComponent<SpriteRenderer>().sortingOrder = 0;
-        GameObject.Find("ParazRoyalManager").GetComponent<ParazRoyalManager>().playerLost(castleId);
+        GameObject.Find("ParazRoyalManager").GetComponent<ParazRoyalManager>().playerLost(teamId);
         Destroy(gameObject);
 
 
     }
 
-    public bool IsDead()
+    public override bool IsDead()
     {
         return isDead;
     }
 
-    public void onMidArrival() { }
+    public override void onMidArrival() { }
+
+
+    public override void onPlayerDefeted(int playerId)
+    { }
 }
